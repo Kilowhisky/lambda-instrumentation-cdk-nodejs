@@ -1,6 +1,7 @@
 # CDK TypeScript project to test Nodejs Lambda
 
 This project was created using the [aws documentation for CDK](https://docs.aws.amazon.com/cdk/v2/guide/hello_world.html)
+to test Nodejs lambda instrumentation with New Relic using wrapper handler.
 
 Steps followed:
 * `cdk init app --language typescript` to create blank template
